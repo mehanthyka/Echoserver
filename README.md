@@ -52,8 +52,7 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
             conn.sendall(data)
 ```
 ## OUTPUT:
-![Screenshot 2024-11-04 205408](https://github.com/user-attachments/assets/a02626d8-0ed4-4d02-8865-820cfb35b725)
-
+![Screenshot 2024-11-04 205408](https://github.com/user-attachments/assets/e3397e8f-5d26-44fe-be89-d11d3790cc59)
 
 ## RESULT:
 The program is executed successfully
